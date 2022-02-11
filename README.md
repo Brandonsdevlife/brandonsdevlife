@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/bsardelli"><img src="https://api.daily.dev/devcards/ed9646d6497340a5961c72482ee8c9d8.png?r=02h" width="400" alt="Brandon Sardelli's Dev Card"/></a>
+<a href="https://github.com/Brandonsdevlife/brandonsdevlife"><img src="https://github.com/Brandonsdevlife/brandonsdevlife" width="400" alt="Brandon Sardelli's Dev Card"/></a>
 
 <!--
 **Brandonsdevlife/brandonsdevlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
