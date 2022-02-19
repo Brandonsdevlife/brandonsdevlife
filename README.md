@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Brandon. I am a React and JavaScript enthusiast who is in the beginning of a long journey towards mastery. Currently, I am building a portfolio and personal website to learn and demonstrate the components from React. As a result of hours of learning, I have realized that there are so many things to learn and build. It will be great to collaborate in a team at some point, but for now it's me and the books! 
+
+Hope you have a great day!
+
+*Check out my DevCard below for what I am learning created by Daily.Dev*
+
+
+
 <a href="https://app.daily.dev/bsardelli"><img src="https://api.daily.dev/devcards/ed9646d6497340a5961c72482ee8c9d8.png?r=02h" width="400" alt="Brandon Sardelli's Dev Card"/></a>
 
 <!--
