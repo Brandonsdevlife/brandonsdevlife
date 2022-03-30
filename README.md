@@ -4,7 +4,7 @@ My name is Brandon. I am a React and JavaScript enthusiast who is in the beginni
 
 Hope you have a great day!
 
-*Check out my DevCard below for what I am learning created by Daily.Dev*
+*Check out my DevCard below for what I am learning*
 
 
 
