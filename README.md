@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Brandon. I am a React and JavaScript enthusiast who is in the beginning of a long journey towards mastery. Currently, I am building a portfolio and personal website to learn and demonstrate the components from React. As a result of hours of learning, I have realized that there are so many things to learn and build. It will be great to collaborate in a team at some point, but for now it's me and the books! 
+My name is Brandon. I am a React and JavaScript enthusiast who is in the beginning of a long journey towards mastery. Currently, I am building a portfolio and personal website to learn and demonstrate the components from React. I have so many ideas that I would love to learn, build, and deploy. It will be great to collaborate in a team at some point, but for now it's me and the books (*books as in YouTube, Github, Discord, Leetcode, and Reddit) ! 
 
 Hope you have a great day!
 
