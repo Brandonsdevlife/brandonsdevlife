@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Brandon. I am a React and JavaScript enthusiast who is in the beginning of a long journey towards mastery. Currently, I am building a portfolio and personal website to learn and demonstrate the components from React. I have so many ideas that I would love to learn, build, and deploy. It will be great to collaborate in a team. 
+My name is Brandon. I like to build web applications that are hosted in the cloud. I use JavaScript, React, and Vue mainly. Currently, I am working on a FinTech Dashbaord. :) 
 
 Hope you have a great day!
 
