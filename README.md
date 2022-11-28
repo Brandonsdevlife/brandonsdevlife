@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Brandon. I like to build web applications that are hosted in the cloud. I use JavaScript, React, and Vue mainly. Currently, I am working on a FinTech Dashbaord. :) 
+My name is Brandon.
 
 Hope you have a great day!
 
